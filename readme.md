@@ -16,4 +16,4 @@ Cleanup | 📁
 
 
 ### Credits
-[gitmoji](https://gitmoji.dev/) | (commit message emoji)[https://github.com/dannyfritz/commit-message-emoji]
+[gitmoji](https://gitmoji.dev/) | [commit message emoji](https://github.com/dannyfritz/commit-message-emoji)
