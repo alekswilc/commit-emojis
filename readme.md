@@ -2,15 +2,18 @@
 
 Commit Type | Emoji
 ----------  | -----
-Add | ✅
-Initial Commit or Release | 🎉
-Version Tag | 🔖
+Category | 📌
+Add | ➕
+Remove | ➖
+Merge | 🔀
+Release or Initial Commit | 🎉
+Release or Version Tag | 🔖
 New Feature | ✨
 Bugfix | 🔨
 Security Update | 🔒
 WIP | 🚧
 Tests | 🧪
-Deprecation | ⭕
+Deprecation | 🗑️
 Documentation | 📗
 Cleanup | 📁
 
