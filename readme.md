@@ -3,7 +3,7 @@
 Commit Type | Emoji
 ----------  | -----
 Add | ✅
-Initial Commit | 🎉
+Initial Commit or Release | 🎉
 Version Tag | 🔖
 New Feature | ✨
 Bugfix | 🔨
