@@ -5,6 +5,7 @@ Commit Type | Emoji
 Category | 📌
 Add | ➕
 Remove | ➖
+Change | 🔧
 Merge | 🔀
 Release or Initial Commit | 🎉
 Release or Version Tag | 🔖
